@@ -7,7 +7,7 @@ const MenuTop = () => {
         </li>
         <li>
           <a target="blank" href="/trang2">
-            Phụ kien
+            Phụ kiện
           </a>
         </li>
         <li>
@@ -15,7 +15,7 @@ const MenuTop = () => {
             target="blank"
             href="https://giadinh.edu.vn/de-an-tuyen-sinh-truong-dai-hoc-gia-dinh-nam-2024"
           >
-            Đề án TS
+            Chăm sóc khách hàng
           </a>
         </li>
         <li>
@@ -23,22 +23,22 @@ const MenuTop = () => {
             target="blank"
             href="https://giadinh.edu.vn/truong-dai-hoc-gia-dinh-thong-bao-3-cong-khai-nam-hoc"
           >
-            Ba công khai
+            Bảo hành
           </a>
         </li>
         <li>
           <a target="blank" href="https://sinhvien.giadinh.edu.vn/">
-            Xem điểm
+            Hỗ trợ
           </a>
         </li>
         <li>
           <a target="blank" href="https://lms.giadinh.edu.vn/">
-            E-learning
+            Giỏ hàng
           </a>
         </li>
         <li>
           <a target="blank" href="https://library.giadinh.edu.vn/search">
-            Thư viện số
+            Lịch sử mua hàng
           </a>
         </li>
         <li>
@@ -46,7 +46,7 @@ const MenuTop = () => {
             target="blank"
             href="https://drive.google.com/file/d/1i0dE785sZgkMck2-j_z-kUJT8dYFWZFn/view?usp=sharing"
           >
-            E-Brochure
+            Đăng ký/ Đăng nhập
           </a>
         </li>
 

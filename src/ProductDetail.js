@@ -11,7 +11,7 @@ const ProductDetail = () => {
     const fetchProduct = async () => {
       try {
         const { data, error } = await supabase
-          .from("product1")
+          .from("products")
           .select("*")
           .eq("id", id)
           .single();
@@ -26,7 +26,7 @@ const ProductDetail = () => {
     fetchProduct();
   }, [id]);
 
-  if (!product) {
+  if (!products) {
     return (
       <div style={{ textAlign: "center", marginTop: "40px" }}>
         <p>Đang tải thông tin sản phẩm...</p>
